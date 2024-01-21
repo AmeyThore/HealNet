@@ -1,6 +1,6 @@
 # HealNet
-HealNet is a website where all the hospitals in the pune city all available for booking an appointments , emergency, calls, and services for the customers 
-the hospitals are aranged on the category basis...
+HealNet is a website that enables customers to book appointments, make emergency calls, and access services offered by hospitals in Pune city. The hospitals are categorized for convenience.
 
-To open the website succesfully upload all the folders into your htdocs folder of the xampp folder in local disc (c)
-then use localhost to open the website 
+To successfully open the website, upload all the folders to the "htdocs" folder within the "xampp" folder on your local disk (C:). Afterward, use "localhost" to access the index.html website.
+
+
